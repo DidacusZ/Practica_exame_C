@@ -1,0 +1,27 @@
+C:\Altair\_Trabajos csi_1 (Prog)\_PruebaCodigos\Ev4 POO\P47_Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.exe
+C:\Altair\_Trabajos csi_1 (Prog)\_PruebaCodigos\Ev4 POO\P47_Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.pdb
+C:\Altair\_Trabajos csi_1 (Prog)\_PruebaCodigos\Ev4 POO\P47_Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.csprojResolveAssemblyReference.cache
+C:\Altair\_Trabajos csi_1 (Prog)\_PruebaCodigos\Ev4 POO\P47_Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.exe
+C:\Altair\_Trabajos csi_1 (Prog)\_PruebaCodigos\Ev4 POO\P47_Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.pdb
+C:\Altair\__PruebaCodigos\Ev4 POO\P48 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\P48 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.pdb
+C:\Altair\__PruebaCodigos\Ev4 POO\P48 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\P48 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.pdb
+C:\Altair\__PruebaCodigos\Ev4 POO\P48 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.csprojResolveAssemblyReference.cache
+C:\Altair\__PruebaCodigos\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.pdb
+D:\_Material Pruebas Prog\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.exe.config
+D:\_Material Pruebas Prog\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.exe
+D:\_Material Pruebas Prog\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.pdb
+D:\_Material Pruebas Prog\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.csprojAssemblyReference.cache
+D:\_Material Pruebas Prog\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.csproj.CoreCompileInputs.cache
+D:\_Material Pruebas Prog\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.exe
+D:\_Material Pruebas Prog\Ev4 POO\P46 Pintar Piso\_Proy (PintarPiso)\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.pdb
+C:\Users\EQUIPO\Desktop\clase\PROGRAMACION\4º ev POO\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Desktop\clase\PROGRAMACION\4º ev POO\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.csproj.SuggestedBindingRedirects.cache
+C:\Users\EQUIPO\Desktop\clase\PROGRAMACION\4º ev POO\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\clase\PROGRAMACION\4º ev POO\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.exe
+C:\Users\EQUIPO\Desktop\clase\PROGRAMACION\4º ev POO\Apellidos_Nombre\PintarPiso\obj\Debug\PintarPiso.pdb
+C:\Users\EQUIPO\Desktop\clase\PROGRAMACION\4º ev POO\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.exe.config
+C:\Users\EQUIPO\Desktop\clase\PROGRAMACION\4º ev POO\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.exe
+C:\Users\EQUIPO\Desktop\clase\PROGRAMACION\4º ev POO\Apellidos_Nombre\PintarPiso\bin\Debug\PintarPiso.pdb
